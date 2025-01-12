@@ -151,6 +151,7 @@ nav a:hover {
 
 .fresh h1 {
     font-size: 100px;
+    margin-left: 200px;
     color: #BCB88A;
     z-index: 5;
     position: relative;
