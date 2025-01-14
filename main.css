@@ -1266,7 +1266,14 @@ section,
   .image1-gallery {
     padding-left: 1.5rem;
   }
+
+  .gallery h2 {
+    text-align: center !important;
+    font-size: 28px !important;
+  }
+
   .gallery-p {
+    text-align: center !important;
     font-size: 22px !important;
   }
 }
